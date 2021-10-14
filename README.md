@@ -10,7 +10,7 @@ const bryantMejia = {
   "email": emailTo("bmejiadeveloper2@gmail.com"),
   "linkedIn": WebLink("https://www.linkedin.com/in/bryantmejia/"),
   "pronouns": ["he", "his"],
-  "skillSet 💻": [Javascript, React, MaterialUI, ReactNative, Nodejs, Expressjs, MongoDB, HTML, CSS, SASS],
+  "skillSet 💻": [Javascript, React, Material UI, React Native, Nodejs, Expressjs, MongoDB, HTML, CSS, SASS],
   "location": {
     "city": "Philadelphia",
     "state": "Pennsylvania",
