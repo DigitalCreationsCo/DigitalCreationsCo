@@ -1,10 +1,12 @@
 <h3>Hi, my name is Bryant Mejia! </h3>
-<p>I am a Full Stack Software Engineer from Lancaster, PA. I'm currently living in beautiful Philadelphia, PA. I am motivated as a developer to build <em>immersive</em>, <i>innovative</i> user experiences for the web and mobile devices. </p>
+<p>I am a Full Stack Software Engineer from Lancaster, PA. I'm currently living in beautiful Philadelphia, PA.
+  <br/>
+I am motivated as a developer to build <em>immersive</em>, <i>innovative</i> user experiences for the web and mobile devices. </p>
 
 ```javascript
 const bryantMejia = {
   "readyToWork": true,
-  "developerPortfolio": WebLink("www.bryantmejia.com"),
+  "softwarePortfolio": WebLink("www.bryantmejia.com"),
   "email": emailTo("bmejiadeveloper2@gmail.com"),
   "linkedIn": WebLink("https://www.linkedin.com/in/bryantmejia/"),
   "pronouns": ["he", "his"],
@@ -20,3 +22,6 @@ const bryantMejia = {
   "funfact": "I love to sketch when I am not programming"
 }
 ```
+<div>View my software portfolio<b><a href="www.bryantmejia.com"> here!</a></b></div>
+<div><a href="mailto:bmejiadeveloper2@gmail.com" target="_blank">Send me an email</a></div>
+<div><a href="https://www.linkedin.com/in/bryantmejia/" target="_blank">Connect with me on Linkedin</a></div>
