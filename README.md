@@ -1,4 +1,4 @@
-<h3> Hi, my name is Bryant Mejia. </h3>
+<h3> Hi, my name is Bryant Mejia! </h3>
 <p> I am a Full Stack Software Engineer from Lancaster, PA. I'm currently living in beautiful Philadelphia, PA. I am motivated as a developer to build high quality, innovate user experiences for the web and mobile devices. </p>
 
 ```javascript
