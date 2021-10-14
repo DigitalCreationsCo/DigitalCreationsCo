@@ -5,7 +5,7 @@
 const bryantMejia = {
   "readyToWork": true,
   "pronouns": ["he", "his"],
-  "skillSet 💻": [Javascript, React, Material UI, React Native, Node.js, Express.js, MongoDB, HTML, CSS, SASS],
+  "skillSet 💻": [Javascript, React, MaterialUI, ReactNative, Nodejs, Expressjs, MongoDB, HTML, CSS, SASS],
   "location": {
     "city": "Philadelphia",
     "state": "Pennsylvania",
