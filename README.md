@@ -1,6 +1,18 @@
 <h3> Hi, my name is Bryant Mejia. </h3>
 <p> I am a Full Stack Software Engineer from Lancaster, PA. I'm currently living in beautiful Philadelphia, PA. I am motivated as a developer to build high quality, innovate user experiences for the web and mobile devices. </p>
 
+```javascript
+const henrykc = {
+  openToWork: "True",
+  mySkill: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["he", "his"],
+  techStack: [JavaScript, React, Redux, React Native,Node, Express, MySQL, MongoDB, HTML/CSS, Ruby, Rails, Semantic UI, Bootstrap],
+  askMeAbout: [Football, Music],
+  challenge: "I am honing my Ruby and Rails skills",
+  funFacts: ['I literally envision the coding aspect of virtually everything'],
+  work: "Currently a Microverse student"
+}
+```
 const bryantMejia = {
   "readyToWork": true,
   "pronouns": ["he", "his"],
