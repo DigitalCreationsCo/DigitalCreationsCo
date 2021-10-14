@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3> Hi, my name is Bryant Mejia. </h3>
+<p> I am a Full Stack Software Engineer from Lancaster, PA. I'm currently living in beautiful Philadelphia, PA. I am motivated as a developer to build high quality, innovate user experiences for the web and mobile devices. </p>
 
-<!--
-**DigitalCreationsCo/DigitalCreationsCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const bryantMejia = {
+  "readyToWork": true,
+  "pronouns": ["he", "his"],
+  "skillSet 💻": [Javascript, React, Material UI, React Native, Node.js, Express.js, MongoDB, HTML, CSS, SASS],
+  "location": {
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "zipcode": 19121
+  },
+  "learning 🌱": "Clean Architecture of React and Node.js projects",
+  "workingOn 🔭": "practicing mastery of React and React Native by building a social media application",
+  "booksIveRead 📚": [...booksIveRead, "Javascript & Jquery", "Zero to One"],
+  "email": emailTo("bmejiadeveloper2@gmail.com"),
+  "linkedIn": new WebLink("https://www.linkedin.com/in/bryantmejia/"),
+  "funfact": "I love to sketch when I am not programming"
+}
