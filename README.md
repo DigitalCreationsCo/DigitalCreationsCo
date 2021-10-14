@@ -4,7 +4,7 @@
 ```javascript
 const bryantMejia = {
   "readyToWork": true,
-  "developer portfolio": WebLink("www.bryantmejia.com"),
+  "developerPortfolio": WebLink("www.bryantmejia.com"),
   "email": emailTo("bmejiadeveloper2@gmail.com"),
   "linkedIn": WebLink("https://www.linkedin.com/in/bryantmejia/"),
   "pronouns": ["he", "his"],
