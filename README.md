@@ -4,8 +4,9 @@
 ```javascript
 const bryantMejia = {
   "readyToWork": true,
+  "developer portfolio": WebLink("www.bryantmejia.com"),
   "email": emailTo("bmejiadeveloper2@gmail.com"),
-  "linkedIn": "https://www.linkedin.com/in/bryantmejia/",
+  "linkedIn": WebLink("https://www.linkedin.com/in/bryantmejia/"),
   "pronouns": ["he", "his"],
   "skillSet 💻": [Javascript, React, MaterialUI, ReactNative, Nodejs, Expressjs, MongoDB, HTML, CSS, SASS],
   "location": {
