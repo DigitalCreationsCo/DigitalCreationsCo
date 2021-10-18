@@ -22,6 +22,6 @@ const bryantMejia = {
   "funfact": "I love to sketch when I am not programming"
 }
 ```
-<div>View my software portfolio<b><a href="www.bryantmejia.com"> here!</a></b></div>
-<div><a href="mailto:bmejiadeveloper2@gmail.com" target="_blank">Send me an email</a></div>
-<div><a href="https://www.linkedin.com/in/bryantmejia/" target="_blank">Connect with me on Linkedin</a></div>
+<div>View my software portfolio<b><a href="www.bryantmejia.com" target="_blank"> here!</a></b></div>
+<div>Send me an email at <a href="mailto:bmejiadeveloper2@gmail.com" target="_blank">bmejiadeveloper2@gmail.com</a></div>
+<div><a href="https://www.linkedin.com/in/bryantmejia/" target="_blank">Connect with me on Linkedin!</a></div>
