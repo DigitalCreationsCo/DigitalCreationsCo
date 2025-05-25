@@ -1,7 +1,19 @@
-<h1>Hi, my name is Bryant Mejia. 👋 </h1>
-<p>I am a Full-Stack Engineer from New York, and currently based in San Francisco, CA. ☀️ </p>
-<p>Currently developing: Agentic systems for non-technical users. </p>
-<p>Currently reading: <a href="https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/" target="_blank">Hands-On Large Language Models by Jay Alammar, Maarten Grootendorst</a></p>
-<p>Visit my portfolio: <a href="https://www.bryantmejia.com" target="_blank">www.bryantmejia.com</a></div>
-<p>Email: <a href="mailto:bryantmejia722@outlook.com" target="_blank">bryantmejia722@outlook.com</a></p>
-<a href="https://www.linkedin.com/in/bryant-mejia-085669331" target="_blank">Connect on Linkedin</a>
+# Hi, I’m Bryant Mejia 👋  
+Full-Stack Engineer based in San Francisco, CA — originally from New York. ☀️🏙️
+
+## Current Focus  
+- Building agentic systems for non-technical users  
+- Upskilling in **MLOps** — model deployment, monitoring, and scalable pipelines ⚙️🤖  
+
+## Machine Learning Stack  
+**Languages:** Python · Java · TypeScript  
+**Frameworks & Tools:** FastAPI · PyTorch · Scikit-Learn · TensorFlow · Docker · Kubernetes · LangChain
+
+## Recently Read  
+☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst
+☑️ *Machine Learning in Finance* by Matthew F. Dixon, Igor Halperin & Paul Bilokon
+
+## Connect  
+**Portfolio:** [www.bryantmejia.com](https://www.bryantmejia.com)  
+**Email:** bryantmejia722@outlook.com  
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/bryant-mejia-085669331)
