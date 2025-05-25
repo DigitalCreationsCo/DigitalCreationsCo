@@ -1,5 +1,5 @@
 # Hi, I’m Bryant Mejia 👋  
-Full-Stack Engineer based in San Francisco, CA — originally from New York. ☀️🏙️
+I'm a Full-Stack Engineer based in San Francisco, CA — originally from New York. ☀️🏙️
 
 ## Current Focus  
 - Building agentic systems for non-technical users  
@@ -16,4 +16,4 @@ Full-Stack Engineer based in San Francisco, CA — originally from New York. ☀
 ## Connect  
 **Portfolio:** [www.bryantmejia.com](https://www.bryantmejia.com)  
 **Email:** bryantmejia722@outlook.com  
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/bryant-mejia-085669331)
+**LinkedIn:** [Let's connect](https://www.linkedin.com/in/bryant-mejia-085669331)
