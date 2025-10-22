@@ -1,13 +1,13 @@
-# Hi, I’m Bryant Mejia 👋  
-I'm a Full-Stack Engineer based in San Francisco, CA — originally from New York. ☀️🏙️
+# Hi, I’m Andres 👋  
+I'm a Full-Stack Engineer from New York 🏙️, based in San Francisco, CA. ☀️
 
 ## Current Focus  
-- Building agentic systems for non-technical users  
-- Upskilling in **MLOps** — model deployment, monitoring, and scalable pipelines ⚙️🤖  
+- Building agentic applications
+- Upskilling in **MLOps**, model deployment, and agentic workflows ⚙️🤖 
 
 ## Machine Learning Stack  
 **Languages:** Python · Java · TypeScript  
-**Frameworks & Tools:** FastAPI · PyTorch · Scikit-Learn · TensorFlow · Docker · Kubernetes · LangChain
+**Frameworks & Tools:** FastAPI · PyTorch · TensorFlow · LangChain · Docker · Kubernetes
 
 ## Recently Read  
 ☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst
