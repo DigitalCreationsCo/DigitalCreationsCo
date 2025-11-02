@@ -1,19 +1,18 @@
-# Hi, I’m Andres 👋  
-I'm a Full-Stack Engineer from New York 🏙️, based in San Francisco, CA. ☀️
+# Hello, I’m Andres 👋  
+I'm a full-stack software engineer from New York 🏙️, currently based in San Francisco, CA ☀️
 
 ## Current Focus  
-- Building agentic applications
-- Upskilling in **MLOps**, model deployment, and agentic workflows ⚙️🤖 
+- Building agentic applications with multimodal workflows ⚙️
 
-## Machine Learning Stack  
-**Languages:** Python · Java · TypeScript  
-**Frameworks & Tools:** FastAPI · PyTorch · TensorFlow · LangChain · Docker · Kubernetes
+## AI ML Stack  
+**Languages** Python · TypeScript · Java
+**Tools** FastAPI · TensorFlow · LangChain · Nodejs · Nextjs · Docker · AWS
 
-## Recently Read  
+## Recent Reads  
+☑️ *Only the Paranoid Survive* by Andrew Grove
 ☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst
-☑️ *Machine Learning in Finance* by Matthew F. Dixon, Igor Halperin & Paul Bilokon
 
-## Connect  
-**Portfolio:** [www.bryantmejia.com](https://www.bryantmejia.com)  
-**Email:** bryantmejia722@outlook.com  
-**LinkedIn:** [Let's connect](https://www.linkedin.com/in/bryant-mejia-085669331)
+## Let's connect
+[View my work](https://www.bryantmejia.com)  
+Email me at [bryantmejia722@outlook.com](mailto:bryantmejia722@outlook.com)
+[Connect on Linkedin](https://www.linkedin.com/in/bryant-mejia-085669331)
