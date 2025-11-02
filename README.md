@@ -10,5 +10,5 @@ I'm a full-stack software engineer from New York 🏙️, currently based in San
 ☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst  
 ## Let's connect
 [View my work](https://www.bryantmejia.com)  
-Email me at [bryantmejia722@outlook.com](mailto:bryantmejia722@outlook.com)  
+Email me [bryantmejia722@outlook.com](mailto:bryantmejia722@outlook.com)  
 [Connect on Linkedin](https://www.linkedin.com/in/bryant-mejia-085669331)  
