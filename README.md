@@ -10,6 +10,6 @@ Building multimodal UI and agentics workflows — systems that combine text, aud
 ☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst 
 ## Connect on social
 [My developer portfolio](https://www.bryantmejia.com)  
-Email me bryantmejia722@outlook.com  
-[Connect on Linkedin](https://www.linkedin.com/in/bryant-mejia-085669331)  
+bryantmejia722@outlook.com  
+[Linkedin](https://www.linkedin.com/in/bryant-mejia-085669331)  
 [X](https://x.com/_bryantmejia)
