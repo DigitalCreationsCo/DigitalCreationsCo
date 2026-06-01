@@ -10,6 +10,7 @@ Building creative workflows for users and agents.
 ☑️ *Only the Paranoid Survive* by Andrew Grove  
 ☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst 
 ## Let's Connect
+[Resume](https://bit.ly/4uHuEQR)  
 https://www.bryantmejia.com  
 Bryantmejia722@outlook.com  
 [Linkedin](https://www.linkedin.com/in/bryant-mejia-085669331)  
