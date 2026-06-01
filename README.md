@@ -8,8 +8,8 @@ Building multimodal UI and agentics workflows — systems that combine text, aud
 ## Recent Books
 ☑️ *Only the Paranoid Survive* by Andrew Grove  
 ☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst 
-## Connect on social
-[My Developer Portfolio](https://www.bryantmejia.com)    
-Bryantmejia722@outlook.com 
+## Let's Connect
+(https://www.bryantmejia.com)    
+Bryantmejia722@outlook.com(mail:bryantmejia722@outlook.com)
 [Linkedin](https://www.linkedin.com/in/bryant-mejia-085669331) 
 [X](https://x.com/_bryantmejia)
