@@ -1,17 +1,16 @@
-# I’m Bryant 👋  
-Full-stack software and AI engineer from New York City.  🏙️
-## Current Focus  
-Building creative workflows for users and agents.
-## Tech Stack  
-**Languages**: Python · TypeScript  
-**Tools**: AWS · FastAPI · Nodejs · Docker  
-## Recent Books
+# Hi, I’m Bryant 👋  
+I'm a full-stack software engineer from New York City  🏙️
+### Current focus  
+Building agent-native creative workflows.  
+### Tools  
+Python · TypeScript · Rust  
+FastAPI · Nodejs · AWS · Postgres · Docker  
+Agents · Nodejs
+### Recent books  
 ☑️ *Play Nice But Win* by Michael Dell  
-☑️ *Only the Paranoid Survive* by Andrew Grove  
-☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst 
-## Let's Connect
-[Resume](https://bit.ly/4uHuEQR)  
+☑️ *Hands-On Large Language Models* by Jay Alammar & Maarten Grootendorst  
+### Let's connect  
 https://www.bryantmejia.com  
 Bryantmejia722@outlook.com  
 [Linkedin](https://www.linkedin.com/in/bryant-mejia-085669331)  
-[X](https://x.com/_bryantmejia)  
+[My Resume](https://bit.ly/4uHuEQR)  
